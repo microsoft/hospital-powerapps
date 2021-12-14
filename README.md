@@ -1,14 +1,16 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+> This repo contains sample PowerApps useful to horpitals.
+> These apps are sample starting points.
 
-As the maintainer of this project, please make a few updates:
+# Contents
+1. apps/Overstays: a PowerApp that tracks patient overstays
+2. apps/Workforce Survey: a PowerApp to help track critical straffing levels
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+# Instructions
+1. Download and Import PowerApps into your PowerApps org.
+2. Create a backing DB
+
 
 ## Contributing
 
